@@ -1,0 +1,13 @@
+{
+  "name": "server69",
+  "description": "696969",
+  "version": "0.0.0",
+  "main": "spigot.jar",
+  "scripts": {
+    "start": "java -Xmx1028M -jar spigot.jar"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
